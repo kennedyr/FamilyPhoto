@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyPhoto", "FamilyPhoto\FamilyPhoto.csproj", "{92E49D61-0B14-420D-8B6E-AC27FC1A23C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyPhoto.Tests", "FamilyPhoto.Tests\FamilyPhoto.Tests.csproj", "{6B8ED4D7-E156-4562-AB53-5D77F274D706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E49D61-0B14-420D-8B6E-AC27FC1A23C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E49D61-0B14-420D-8B6E-AC27FC1A23C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E49D61-0B14-420D-8B6E-AC27FC1A23C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E49D61-0B14-420D-8B6E-AC27FC1A23C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8ED4D7-E156-4562-AB53-5D77F274D706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8ED4D7-E156-4562-AB53-5D77F274D706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8ED4D7-E156-4562-AB53-5D77F274D706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8ED4D7-E156-4562-AB53-5D77F274D706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
